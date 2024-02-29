@@ -2,7 +2,7 @@
 
 This bot runs with Selenium Lib, interacting with JS web elements. One step is performed with pyautogui because Selenium wasn't performing the action. 
 
-- If you would like to run thus bot in your machine keep in mind that you may have to change the mouse coordinates at **Calendar** step
+- If you would like to run this bot in your machine keep in mind that you may have to change the mouse coordinates at *Calendar* step
 
 
 
@@ -13,6 +13,6 @@ This bot runs with Selenium Lib, interacting with JS web elements. One step is p
 
 
 ## Challenge
--Write a code for scrape more than one page and submit a pull request!
+- Can you write a code for scrape more than one page? Submit a pull request I'll review and merge if it works!
 
 
